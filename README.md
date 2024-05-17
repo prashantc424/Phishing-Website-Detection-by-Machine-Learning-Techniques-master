@@ -42,7 +42,6 @@ All these models are trained on the dataset and evaluation of the model is done 
 
 ## Presentation
 
-The short video presentaion for this project is @ https://youtu.be/I1refTZp-pg. <br>
 The slide presentaion used in this video is [Phishing Website Detection by Machine Learning Techniques Presentation.pdf](https://github.com/prashantc424/Phishing-Website-Detection-by-Machine-Learning-Techniques-master/blob/main/Phishing%20Website%20Detection%20by%20Machine%20Learning%20Techniques%20Presentation.pptx)
 
 ## End Results
